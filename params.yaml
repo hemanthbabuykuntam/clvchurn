@@ -1,0 +1,10 @@
+# Hyperparameters and configurations
+
+model:
+  max_depth: 5
+  learning_rate: 0.1
+  n_estimators: 100
+
+data:
+  path_raw: data/raw/OnlineRetail.csv
+

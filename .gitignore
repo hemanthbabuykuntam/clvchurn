@@ -1,0 +1,30 @@
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+env/
+
+# Data files
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# DVC files
+*.dvc
+.dvc/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
